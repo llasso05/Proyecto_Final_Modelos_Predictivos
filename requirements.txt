@@ -1,0 +1,17 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Jupyter Notebook Support
+jupyter
+notebook
+
+# Time Series & Machine Learning Models
+statsmodels
+prophet
+scikit-learn
+
+# Data Processing & Utilities
+pyyaml  
