@@ -12,6 +12,7 @@ notebook
 statsmodels
 prophet
 scikit-learn
+XGBoost
 
 # Data Processing & Utilities
 pyyaml  
